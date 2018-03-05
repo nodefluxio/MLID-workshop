@@ -1,4 +1,4 @@
-# Data Science With Python
+# Introduction Python for Data Science
 > Belajar Data Science secara praktis menggunakan Python
 
 ## Pemasangan (Installation) dan Penggunaan Pertama 
@@ -43,18 +43,6 @@ Kemudian navigasi ke folder yang telah kalian simpan.
 
 ![jupyter-notebook](images/jupyter-notebook.png)
 
-## Inspirasi
+## Sumber
 
-Materi repositori ini terinspirasi setelah saya menyelesaikan [Data Camp](https://datacamp.com)       Data Science Python Career Track. Semua data yang dipergunakan di repositori ini terdapat pada DataCamp. Silahkan kunjungi DataCamp karena merupakan tempat yang keren untuk memulai belajar Data Science.
-
-## Lisensi
-
-Didistribusikan menggunakan lisensi MIT. Silahkan melihat `` LICENSE `` untuk lebih lanjut
-
-## Kontribusi
-1. Silahkan di Fork  
-2. Buat branch baru (`git checkout -b feature/fooBar`)
-3. Silahkan isi nama anda beserta tautan github anda di CONTRIBUTORS.md
-4. Commit perubahan yang ada(`git commit -am 'Add some fooBar'`)
-5. Push pada branch yang sudah ada (`git push origin feature/fooBar`)
-6. Buat sebuah Pull Request baru
+https://github.com/rubiagatra/data-science-with-python

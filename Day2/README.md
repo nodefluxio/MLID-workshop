@@ -1,4 +1,4 @@
-# workshop Machine Learning in Python
+# workshop Machine Learning with Python
 
 ## Dependencies
 
